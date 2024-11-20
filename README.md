@@ -24,7 +24,7 @@
 </div>
 <hr>
   
- ## Projects
+## Projects
 <div class="Projects">
   <ul>
     <li>Medical Inventory Optimisation : A DataAnalysis Mini-Project</li>
@@ -34,7 +34,7 @@
 </div>
 <hr>
 
- ## Certifications
+## Certifications
 <div class="Certifications">
  <ul>
     <li>Automate The Boring Stuff With Python</li>
